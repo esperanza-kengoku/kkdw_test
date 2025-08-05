@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
 <body>
+    ぽよヨヨヨヨヨヨーん
 <?php
 include '../../php/settime.php';
 /*表示開始日時*/
