@@ -2,6 +2,7 @@
 <html lang="ja">
 <body>
     ぽよヨヨヨヨヨヨーん
+    ダダダダダ！
 <?php
 include '../../php/settime.php';
 /*表示開始日時*/
