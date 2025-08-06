@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="ja">
-<body>コンフリクトをあえて起こす！
+<body>衝突の無い優しい世界
 <?php
 include '../../php/settime.php';
 /*表示開始日時*/
