@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="ja">
-<body>衝突の無い優しい世界
+<body>衝突の無い優しい世界に変更を加えています
 <?php
 include '../../php/settime.php';
 /*表示開始日時*/
