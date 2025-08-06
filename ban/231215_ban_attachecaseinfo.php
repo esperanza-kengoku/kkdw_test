@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="ja">
-<body>ここに何か書き込むのはやめてけろ！
+<body>衝突の無い優しい世界
 <?php
 include '../../php/settime.php';
 /*表示開始日時*/
