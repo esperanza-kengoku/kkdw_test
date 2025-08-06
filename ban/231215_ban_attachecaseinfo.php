@@ -28,7 +28,7 @@ if ($now >= $startTime && $now < $closeTime): ?>
     <!--メモ：URL遷移(ゲーム内遷移の場合)-->
     <!--<a href="kengokuapp://120_Gacha">-->
 </li>
-
+テスト
 
 <?php endif; ?>
 
